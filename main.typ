@@ -8,7 +8,7 @@
   work-topic: "Раздел 2. Процессы и потоки",
   supervisor-name: "И. Р. Нигматуллин",
   graduate-name: "Ю.В. Логинова",
-  student-group: "ГФ25-02Б, 152543248",
+  student-group: "группа, номер зачетной книжки",
 )
 
 #show: university-doc.with(
