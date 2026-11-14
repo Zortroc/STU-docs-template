@@ -130,7 +130,7 @@ set list(
   approve-year: "2026",
   work-type: "БАКАЛАВРСКАЯ РАБОТА",
   work-topic: "",
-  practice-place: "",
+  practice-place: "Операционные системы",
   direction-code: "",
   direction-name: "",
   program-code: "",
